@@ -1,0 +1,5 @@
+uvicorn
+fast-api
+torch
+pillow
+torchvision
